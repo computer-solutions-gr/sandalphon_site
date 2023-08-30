@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sandalphon-render-site.onrender.com/sitemap.xml

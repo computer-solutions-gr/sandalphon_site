@@ -1,0 +1,142 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "a2dcea4c9881bffdb7d34f2e42b418e7"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "c755c2fe0cf048eca9288877c9c036cb"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "4552bcf67384bb346e427f6ab62513d8"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e0c4d53c21e83015f166f4b853f8ade4"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "f47c11534595205f20935f0db2a62a85"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "c02a714aae85e9bb30879a798f458527"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "25970b4dc9b91773247e995cb3d0318a"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "268ef17a00a9183aec3db03dab4f7c4e"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "42a956826710f8d5424a0b97a294b2eb"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "d1ceacff0aa375e89c5edc904416c008"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b088e503a49db74ad118c2f41f9196ac"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "59315f922603008e6a407bb344cad15e"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "dd642f9a86e1a2e78996972a7b28a965"
+    }
+]
