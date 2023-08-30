@@ -100,19 +100,69 @@
         "md5": false
     },
     {
+        "path": "authors/stavros-pitoglou",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/stavros-pitoglou/index.html",
+        "type": "file",
+        "md5": "3b1f8cefdc875d07855111a3e9378a47"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "268ef17a00a9183aec3db03dab4f7c4e"
+        "md5": "35172c6a4e2447c8a463f194714ade43"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "42a956826710f8d5424a0b97a294b2eb"
+        "md5": "3fbd18a624982ec47c33ed9353a84522"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d1ceacff0aa375e89c5edc904416c008"
+        "md5": "3700b7a87d7ade226031d935936d2f0e"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/gallery/Screenshot-2023-04-05-170152-thumbnail.png",
+        "type": "file",
+        "md5": "b0f83a496c9470d945d5ae42716f451c"
+    },
+    {
+        "path": "/media/posts/1/gallery/Screenshot-2023-04-05-170152.png",
+        "type": "file",
+        "md5": "865841f189c660de0757667d52c6574c"
+    },
+    {
+        "path": "/media/posts/1/gallery/Screenshot-2023-04-10-113935-thumbnail.png",
+        "type": "file",
+        "md5": "2f2177942953566d76c74a0ee0d66581"
+    },
+    {
+        "path": "/media/posts/1/gallery/Screenshot-2023-04-10-113935.png",
+        "type": "file",
+        "md5": "f5d26e3bdcba6e06b7bcf7b0b97f1b47"
     },
     {
         "path": "robots.txt",
@@ -122,7 +172,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "59315f922603008e6a407bb344cad15e"
+        "md5": "0f1bd3275676d5d7ecfc5c93bb1a4056"
     },
     {
         "path": "sitemap.xsl",
@@ -138,5 +188,10 @@
         "path": "/tags/index.html",
         "type": "file",
         "md5": "dd642f9a86e1a2e78996972a7b28a965"
+    },
+    {
+        "path": "test-post-dokimi.html",
+        "type": "file",
+        "md5": "a9608147e936325ba69820b0d475323a"
     }
 ]
